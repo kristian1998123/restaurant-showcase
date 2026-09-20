@@ -262,7 +262,7 @@
   background-color: oklch(0.945 0.018 78);
   background-image:
     url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cg fill='%23c9744b'%3E%3Ccircle cx='60' cy='33' r='29'/%3E%3Ccircle cx='60' cy='87' r='29'/%3E%3Ccircle cx='33' cy='60' r='29'/%3E%3Ccircle cx='87' cy='60' r='29'/%3E%3Crect x='31' y='31' width='58' height='58'/%3E%3C/g%3E%3Cg fill='%23f2e9de'%3E%3Ccircle cx='60' cy='38' r='22'/%3E%3Ccircle cx='60' cy='82' r='22'/%3E%3Ccircle cx='38' cy='60' r='22'/%3E%3Ccircle cx='82' cy='60' r='22'/%3E%3Crect x='37' y='37' width='46' height='46'/%3E%3C/g%3E%3Cg fill='%23c9744b'%3E%3Ccircle cx='60' cy='43' r='16'/%3E%3Ccircle cx='60' cy='77' r='16'/%3E%3Ccircle cx='43' cy='60' r='16'/%3E%3Ccircle cx='77' cy='60' r='16'/%3E%3Crect x='42' y='42' width='36' height='36'/%3E%3C/g%3E%3Cg fill='%23f2e9de'%3E%3Ccircle cx='60' cy='60' r='9'/%3E%3C/g%3E%3Cpath d='M0 0h120v1H0zM0 0h1v120H0z' fill='%23ffffff'/%3E%3C/svg%3E");
-  background-size: 120px 120px;
+  background-size: 88px 88px;
 }
 
 @utility menu-card {
