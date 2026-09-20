@@ -61,7 +61,7 @@ function Reveal({ children, className = "" }: { children: React.ReactNode; class
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry?.isIntersecting) {
-          element.dataset.visible = "true";
+          element.dataset["visible"] = "true";
           observer.unobserve(element);
         }
       },
