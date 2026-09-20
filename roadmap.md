@@ -5,3 +5,4 @@
 - [ ] More scroll interactivity (parallax, sticky, counters, image reveals)
 - [ ] Add Instagram link (https://www.instagram.com/barbarescoandros/) to footer
 - [ ] Try pulling photos from Instagram page for the gallery
+- [ ] Recreate the printed menu's background/design style on the site
